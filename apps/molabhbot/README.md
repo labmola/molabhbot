@@ -4,5 +4,5 @@ MOLA Telegram Bot
 
 ## Links
 
-  * MOLA wiki: http://wiki.labmola.com/
+  * MOLA wiki: https://wiki.labmola.com/
   * Source: https://github.com/stentroad/molabhbot
